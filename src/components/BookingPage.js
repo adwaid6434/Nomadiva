@@ -50,8 +50,8 @@ const TOURS = [
   },
   {
     id: "manali",
-    title: "Snow Trek Adventure in Manali",
-    location: "Manali, Himachal Pradesh",
+    title: "Taj Mahal in Agra",
+    location: "Agra, Uttar Pradesh",
     rating: 4.7,
     reviews: 198,
     basePrice: 3499,
